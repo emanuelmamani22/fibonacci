@@ -2,7 +2,7 @@
 #inicializar una variable b con 0
 #inicializar una variable d con 1
 #inicializar una variable c con 0
-#un ciclo While True:
+#un ciclo  True:
 #a la variable c sumarle los valores de los indices 0 y 1 ->
 #<-de la lista unitlizando las variables b y d para acceder a los indices
 #un condicional if para determinar si "c" ->
@@ -25,3 +25,4 @@ while True:
     d = d+1
 
 print a
+print "hola mundo"
