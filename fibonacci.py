@@ -26,3 +26,4 @@ while True:
 
 print a
 print "hola mundo"
+print "hola 2"
